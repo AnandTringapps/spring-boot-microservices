@@ -1,8 +1,8 @@
 package com.productservice;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.productservice.repository.ProductRepository;
 import com.productservice.dto.ProductRequest;
+import com.productservice.repository.ProductRepository;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
